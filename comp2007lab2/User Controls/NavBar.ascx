@@ -1,6 +1,6 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="NavBar.ascx.cs" Inherits="comp2007lab2.NavBar" %>
 
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-inverse" role="navigation">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="Default.aspx"><i class="fa fa-fort-awsome fa-lg"></i>ASP.NET</a>
+            <a class="navbar-brand" href="Default.aspx"><i class="fa fa-fort-awesome fa-lg"></i>ASP.NET</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

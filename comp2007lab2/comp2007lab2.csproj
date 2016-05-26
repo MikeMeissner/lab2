@@ -81,6 +81,7 @@
     <Content Include="Default.aspx" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="User Controls\jumbotron.ascx" />
     <Content Include="User Controls\NavBar.ascx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -128,6 +129,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\jumbotron.ascx.cs">
+      <DependentUpon>jumbotron.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User Controls\jumbotron.ascx.designer.cs">
+      <DependentUpon>jumbotron.ascx</DependentUpon>
     </Compile>
     <Compile Include="User Controls\NavBar.ascx.cs">
       <DependentUpon>NavBar.ascx</DependentUpon>

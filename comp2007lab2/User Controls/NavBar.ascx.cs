@@ -30,10 +30,10 @@ namespace comp2007lab2
         {
             switch (Page.Title)
             {
-                case "home":
+                case "Home Page":
                     home.Attributes.Add("class", "active");
                     break;
-                case "contact":
+                case "Contact Us":
                     contact.Attributes.Add("class", "active");
                     break;
             }
