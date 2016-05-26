@@ -2,6 +2,12 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
         <div class="row">
-            <div class
-    </div>>div.row>div.col.col-md-offset-3.col-md-6  
+            <div class="col-md-offset-3 col-md-6">
+                <h1>Contact Us</h1>
+
+                <!-- TODO -->
+
+
+            </div>
+
 </asp:Content>
