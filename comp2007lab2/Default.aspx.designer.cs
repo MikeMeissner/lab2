@@ -13,12 +13,12 @@ namespace comp2007lab2 {
     public partial class Default {
         
         /// <summary>
-        /// Jumbotron1 control.
+        /// jumbotron control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::comp2007lab2.User_Controls.humbotron Jumbotron1;
+        protected global::comp2007lab2.User_Controls.jumbotron jumbotron;
     }
 }
